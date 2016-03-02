@@ -1,0 +1,23 @@
+{
+  "name": "edge-same-origin-policy",
+  "version": "1.0.0",
+  "description": "This is test code for testing same-origin-policy",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilfrem/edge-same-origin-policy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilfrem/edge-same-origin-policy/issues"
+  },
+  "homepage": "https://github.com/wilfrem/edge-same-origin-policy#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
